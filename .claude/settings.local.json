@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /mnt/c/Users/ito23/Documents/学院科目/物性物理学特論2 log --oneline)",
+      "Bash(git *)"
+    ]
+  }
+}

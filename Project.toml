@@ -1,0 +1,7 @@
+name = "NewtonCotes"
+uuid = "f5b1e3a2-4567-89ab-cdef-0123456789ab"
+authors = ["ito23"]
+version = "0.1.0"
+
+[deps]
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
